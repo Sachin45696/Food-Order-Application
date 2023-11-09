@@ -1,4 +1,4 @@
-"Our food delivery application is a comprehensive and user-friendly platform designed to streamline the process of ordering and delivering delicious meals. Built using a full-stack technology stack including HTML, CSS, MongoDB, Express, React, and Node.js, our application offers an exceptional dining experience for customers 
+"This food delivery application is a comprehensive and user-friendly platform designed to streamline the process of ordering and delivering delicious meals. Built using a full-stack technology stack including HTML, CSS, MongoDB, Express, React, and Node.js, our application offers an exceptional dining experience for customers 
 
 For customers, our app provides an intuitive and visually appealing user interface to browse through an extensive menu, select their favorite dishes, customize their orders, and proceedprocess. Users can create accounts.
 
